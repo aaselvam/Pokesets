@@ -1,8 +1,11 @@
 Brief Overview of Pokeset Creator:
 
 This is a basic creator for Pokemon Sets using a React front end with Node and Express Backend with MongoDB as the database. By clicking 'Create Pokemon Set' you can make your very own competitive pokemon set and upload it to a database of other users. If you type in a valid Pokemon name, their image will appear (via API call) and if you type in a valid Pokemon competitve held item name the respective image will appera (via a different API call). I really wanted to add more, however, Dr. Callahan mentioned that we should try not to spend more than 4 hours on this, so I tried my best to stay around that time limit (I did scrap an entire other project because Angular wasn't cooperating so I gave up and decided to use React). 
+
 Here are some example Pokemon and example held items for testing purposes: 
+
 Pokemon: Guzzlord, Pikachu, Charizard, Kartana, Tapu-Koko, Zekrom.
+
 Items: Leftovers, Choice Scarf, Light Ball, Iron Ball, Light Clay, Quick Claw.
 
 Citations (a lot of stack overflow):

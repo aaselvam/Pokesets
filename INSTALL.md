@@ -4,4 +4,4 @@
 4. cd into the folder "pokesets"
 5. Type npm start
 
-The App will start on http://localhost:8000
+The App will start on http://localhost:3000
