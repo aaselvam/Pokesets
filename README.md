@@ -6,6 +6,7 @@ Pokemon: Guzzlord, Pikachu, Charizard, Kartana, Tapu-Koko, Zekrom.
 Items: Leftovers, Choice Scarf, Light Ball, Iron Ball, Light Clay, Quick Claw.
 
 Citations (a lot of stack overflow):
+
 https://stackoverflow.com/questions/42125775/reactjs-react-router-how-to-center-div
 https://stackoverflow.com/questions/25034994/how-to-correctly-wrap-few-td-tags-for-jsxtransformer
 https://stackoverflow.com/questions/9554987/how-can-i-hide-the-password-entered-via-a-javascript-dialog-prompt
