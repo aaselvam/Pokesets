@@ -1,0 +1,1 @@
+1. Clone this repository with git 
